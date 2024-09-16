@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'knox',
     'user',
+    'participant',
+    'cookoff'
+    
 ]
 
 MIDDLEWARE = [
